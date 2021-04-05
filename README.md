@@ -1,6 +1,6 @@
 Bonjour,
 
-Je m'appelle Jonathan Garriguet et vous êtes sur mon Github professionnel que je mettrais à jour après chaque nouvelle expérience professionnelle utilisant Github.
+Je m'appelle Jonathan Garriguet et vous êtes sur mon Github professionnel que je mettrai à jour après chaque nouvelle expérience professionnelle utilisant Github.
 
 <h2> Mon parcours :</h2>
 <p>
