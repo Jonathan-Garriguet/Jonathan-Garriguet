@@ -11,17 +11,17 @@ De plus, le projet a été terminé avec succès.
 Puis pour approfondir mes connaissances en informatique, j'ai choisi d'intégrer l'IUT informatique de Rodez qui m'a permis de réaliser de nouveaux projets intéressants en plus de m'apprendre de nouvelles méthodes et de nouveaux langages.
 Mes projets sont : 
 <ol>
-  <li>Projet web : Notre premier site Internet. Il fallait coder notre premier site internet en HTML/CSS, le notre avait pour thême les Gamejams. 
+  <li>Projet web : Notre premier site Internet. Il fallait coder notre premier site internet en HTML/CSS, le nôtre avait pour thème les Gamejams. 
   Ce projet a été terminé avec succès.</li>
   <li>Projet application Java : Une application de gestion de salles d'une entreprise. 
   Il fallait coder en java une application permettant au personnel de l'entreprise d'organiser des évènements dans les salles de cette entreprise. 
-  Nous avons utiliser une base de données codée en SQL avec l'application mySQL Workbench, et pour faire le lien nous avons utiliser JDBC (Java Database Connectivity). 
+  Nous avons utilisé une base de données codée en SQL avec l'application MySQL Workbench, et pour faire le lien nous avons utilisé JDBC (Java Database Connectivity). 
   Ce projet a été terminé avec succès.</li>
 </ol>
-Lors de ces projets, nous avons utiliser Discord pour communiquer, Zenhub pour la gestion de projet et Github pour la réalisation et le dépôt du projet pour mon établissement.
-Ce compte Github était spécifique à mon établissement.
+Lors de ces projets, nous avons utilisé Discord pour communiquer, Zenhub pour la gestion de projet et Github pour la réalisation et le dépôt du projet pour mon établissement.
+Ce compte Github était spécifique à mon IUT.
 </p>
-</br>
+<br>
 
 
 <!---
